@@ -1,1 +1,3 @@
-console.log('cos tam')
+const funkcja strzalkowa = () => {
+    console.log('funkcja')
+}
